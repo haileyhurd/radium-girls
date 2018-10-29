@@ -1,0 +1,196 @@
+html
+	{
+		color: white;
+		font-family: sans-serif;
+	}
+#page
+	{
+		width: 80%;
+		background-color: #548B54;
+		margin-left: auto;
+		margin-right: auto;
+		padding: 10px;
+	}
+	
+.menu
+	{
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		width: 100%;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+.button
+	{
+		display: block;
+   		padding: 10px;
+    	text-decoration: none;
+    	color: white;
+    	font-family: sans-serif;
+    	text-align: center;
+    	list-style-type: none;
+    	margin-bottom: 10px;
+	}
+.lbutton
+	{
+		float: left;
+		margin-left: 5px;
+   		margin-right: 5px;
+   		width: 23.5%;
+   		list-style-type: none;
+	}
+	
+.button:hover
+	{
+		background-color: #416b41;
+	}
+	
+h1
+	{
+		text-align: center;
+		font-size: 80px;
+		padding: 0px;
+		margin-bottom: 0px;
+		margin-top: 40px;
+	}
+hr
+	{
+		clear: both;
+		background-color: white;
+		border-style: solid;
+	}
+#cover
+	{
+		float: left;
+		width: 49.3%;
+		height: 300px;
+		margin-top: 50px;
+		background-color: #61a061;
+		margin-bottom: 50px;
+	}
+#info
+	{
+		height: 300px;
+		padding: 100px;
+		margin-top: 50px;
+		background-color: #61a061;
+		margin-bottom: 50px;
+	}
+img
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+#coverimage
+	{
+		margin-top: 23px;
+	}
+#t_info
+	{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 55px;
+		line-height: 1.5;
+	}
+#picnicgirls
+	{
+		width: 100%;
+		background-color: #61a061;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+#workinggirls
+	{
+		width: 100%;
+		background-color: #61a061;
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+.showphoto
+	{
+		width: 90%;
+	}
+figcaption
+	{
+		margin-top: 10px;
+		margin-left: 50px;
+	}
+#subheader
+	{
+		margin-top: 30px;
+		margin-left: 30px;
+	}
+#history
+	{
+		background-color: #61a061;
+		padding: 10px;
+	}
+#clock_div
+	{
+		float: left;
+		margin: 10px;
+	}
+#filler
+	{
+		line-height: 1.5;
+		text-indent: 50px;
+	}
+iframe
+	{
+		margin-left: 20px;
+		margin-bottom: 20px;
+	}
+th, td
+	{
+		border: 2px solid white;
+		padding: 10px;
+		text-align: center;
+	}
+table
+	{
+		border-collapse: collapse;
+		margin: 20px;
+		width: 45%;
+		margin-bottom: 60px;
+		background-color: #548B54;
+	}
+#ticket-area
+	{
+		background-color: #61a061;
+		padding: 20px;
+	}
+fieldset
+	{
+		border: 2px solid white;
+		width: 600px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 60px;
+		background-color: #548B54;
+	}
+#righttext
+	{
+		float: right;
+		text-align: center;
+		font-size: 100px;
+		width: 30%;
+		margin-right: 90px;
+		margin-top: 60px;
+		height: 100px;
+	}
+#contactimage
+	{
+	margin-top: 23px;
+	height: 400px;
+	}
+
+/* darker is #416b41 */
+/* background is #548B54 */
+/* lighter is #7CCD7C */
+/* even lighter is #90EE90 */
